@@ -1,2 +1,0 @@
-<h1>Hello,Rails!</h1>
-<%= linke_to "My Blog", posts_path %>
